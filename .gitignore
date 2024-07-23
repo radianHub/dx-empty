@@ -40,3 +40,5 @@ $RECYCLE.BIN/
 .env
 
 package-lock.json
+.pmdCache
+.vscode/
